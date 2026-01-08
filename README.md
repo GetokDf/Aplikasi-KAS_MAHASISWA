@@ -184,13 +184,12 @@ kas-mahasiswa/
 ## 🎨 Screenshot
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
+<img width="1917" height="1009" alt="Screenshot 2026-01-08 024746" src="https://github.com/user-attachments/assets/a67eda36-d02e-4d57-8c1b-74481adaea12" />
 
-### Manajemen Mahasiswa
-![Mahasiswa](https://via.placeholder.com/800x400?text=Mahasiswa+Screenshot)
 
 ### Laporan Keuangan
-![Laporan](https://via.placeholder.com/800x400?text=Laporan+Screenshot)
+<img width="1919" height="1007" alt="Screenshot 2026-01-08 024756" src="https://github.com/user-attachments/assets/33339c74-235b-47f6-ad15-556182cb5ff1" />
+
 
 ## 🔐 Keamanan
 
